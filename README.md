@@ -37,5 +37,7 @@ Glovid Nuker
 
 A demonstration project designed to use requests only to have some fun. Due to multiple token support, proxies and obviously being threaded, this nuker should be the fastest you can get 
 
+Proxies may seem useless but if you're doing bulk actions (Banning over 10k people example) You may get ratelimited without them
+
 Note that using this project is most likely api abuse and can cause damage. Only use if you have discord's permission and you're doing it in a server you have permissions in
 
