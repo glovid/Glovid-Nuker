@@ -31,6 +31,8 @@ Multiple token support
 
 Bot token creator
 
+Nickname changer
+
 
 
 Glovid Nuker
